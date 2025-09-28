@@ -30,7 +30,7 @@ body {
 
 /* Header */
 header {
-    background: linear-gradient(135deg, var(--primary) 0%, var(--dark) 100%);
+    background-color: #1abc9c; /* Teal color */
     color: white;
     padding: 60px 0 40px;
     text-align: center;
@@ -271,3 +271,4 @@ footer .social-links a:hover {
         padding: 0 10px;
     }
 }
+

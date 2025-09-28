@@ -30,11 +30,12 @@ body {
 
 /* Header */
 header {
-    background-color: #1abc9c; /* Teal color */
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
     color: white;
     padding: 60px 0 40px;
     text-align: center;
 }
+
 
 .profile-container {
     display: flex;
@@ -271,4 +272,5 @@ footer .social-links a:hover {
         padding: 0 10px;
     }
 }
+
 
